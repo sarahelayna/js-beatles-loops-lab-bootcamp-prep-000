@@ -15,7 +15,7 @@ var i = 0;
   return facts;
 }
 
-function iLoveTheBeatles (number) {
+function iLoveTheBeatles (i) {
   var array = [];
   var i = 0;
   do {
